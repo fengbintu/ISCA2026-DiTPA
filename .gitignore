@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project large/generated artifacts
+libero/
+
+# Ignore all checkpoint files, keep README only
+checkpoint/*
+!checkpoint/README.md
+
+# Ignore all dataset files, keep README only
+dataset/*
+!dataset/README.md
+
+# Ignore all outputs files, keep README and example_output only
+outputs/*
+!outputs/README.md
+!outputs/example_output/
+!outputs/example_output/**
+
+# Optional: local runtime/config artifacts
+.libero/

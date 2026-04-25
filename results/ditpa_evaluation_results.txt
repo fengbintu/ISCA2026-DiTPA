@@ -1,0 +1,110 @@
+
+================================================ Task 1 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 66%; DiTPA Success Rate: 64%
+Baseline Position Instability: 0.431; DiTPA Position Instability: 0.372
+Baseline Velocity Instability: 0.038; DiTPA Velocity Instability: 0.021
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 206.00Hz; Normalized Speedup: 365.88x
+Task Time: 1.89s; Normalized Speedup: 372.41x
+Normalized energy efficiency speedup: 2215.07x
+
+================================================ Task 2 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 82%; DiTPA Success Rate: 82%
+Baseline Position Instability: 0.627; DiTPA Position Instability: 0.608
+Baseline Velocity Instability: 0.042; DiTPA Velocity Instability: 0.036
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 194.60Hz; Normalized Speedup: 345.11x
+Task Time: 1.57s; Normalized Speedup: 382.38x
+Normalized energy efficiency speedup: 2077.59x
+
+================================================ Task 3 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 62%; DiTPA Success Rate: 54%
+Baseline Position Instability: 0.424; DiTPA Position Instability: 0.401
+Baseline Velocity Instability: 0.029; DiTPA Velocity Instability: 0.024
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 217.59Hz; Normalized Speedup: 385.31x
+Task Time: 1.75s; Normalized Speedup: 383.47x
+Normalized energy efficiency speedup: 2346.78x
+
+================================================ Task 4 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 76%; DiTPA Success Rate: 72%
+Baseline Position Instability: 0.500; DiTPA Position Instability: 0.457
+Baseline Velocity Instability: 0.029; DiTPA Velocity Instability: 0.021
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 234.73Hz; Normalized Speedup: 415.41x
+Task Time: 1.66s; Normalized Speedup: 345.17x
+Normalized energy efficiency speedup: 2552.78x
+
+================================================ Task 5 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 48%; DiTPA Success Rate: 30%
+Baseline Position Instability: 0.406; DiTPA Position Instability: 0.366
+Baseline Velocity Instability: 0.029; DiTPA Velocity Instability: 0.020
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 210.56Hz; Normalized Speedup: 374.85x
+Task Time: 2.02s; Normalized Speedup: 358.85x
+Normalized energy efficiency speedup: 2274.56x
+
+================================================ Task 6 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 76%; DiTPA Success Rate: 80%
+Baseline Position Instability: 0.447; DiTPA Position Instability: 0.447
+Baseline Velocity Instability: 0.025; DiTPA Velocity Instability: 0.020
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 223.74Hz; Normalized Speedup: 394.79x
+Task Time: 0.92s; Normalized Speedup: 526.53x
+Normalized energy efficiency speedup: 2414.10x
+
+================================================ Task 7 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 64%; DiTPA Success Rate: 50%
+Baseline Position Instability: 0.364; DiTPA Position Instability: 0.344
+Baseline Velocity Instability: 0.025; DiTPA Velocity Instability: 0.020
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 197.25Hz; Normalized Speedup: 348.83x
+Task Time: 1.79s; Normalized Speedup: 374.41x
+Normalized energy efficiency speedup: 2102.51x
+
+================================================ Task 8 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 76%; DiTPA Success Rate: 84%
+Baseline Position Instability: 0.512; DiTPA Position Instability: 0.461
+Baseline Velocity Instability: 0.037; DiTPA Velocity Instability: 0.029
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 217.68Hz; Normalized Speedup: 386.56x
+Task Time: 1.73s; Normalized Speedup: 359.46x
+Normalized energy efficiency speedup: 2354.56x
+
+================================================ Task 9 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 22%; DiTPA Success Rate: 24%
+Baseline Position Instability: 0.304; DiTPA Position Instability: 0.315
+Baseline Velocity Instability: 0.023; DiTPA Velocity Instability: 0.015
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 237.35Hz; Normalized Speedup: 426.22x
+Task Time: 2.16s; Normalized Speedup: 427.65x
+Normalized energy efficiency speedup: 2622.18x
+
+================================================ Task 10 Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 52%; DiTPA Success Rate: 60%
+Baseline Position Instability: 0.348; DiTPA Position Instability: 0.373
+Baseline Velocity Instability: 0.040; DiTPA Velocity Instability: 0.021
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 235.33Hz; Normalized Speedup: 421.00x
+Task Time: 1.83s; Normalized Speedup: 433.72x
+Normalized energy efficiency speedup: 2587.72x
+
+================================================ Average Evaluation ================================================
+----------------------------------------- (1) Accuracy ---------------------------------------
+Baseline Success Rate: 62%; DiTPA Success Rate: 60%
+Baseline Position Instability: 0.436; DiTPA Position Instability: 0.414
+Baseline Velocity Instability: 0.032; DiTPA Velocity Instability: 0.023
+----------------------------------------- (2) Performance -----------------------------------
+Action Frequency: 217.65Hz; Normalized Speedup: 386.93x
+Task Time: 1.73s; Normalized Speedup: 390.82x
+Normalized energy efficiency speedup: 2356.77x
