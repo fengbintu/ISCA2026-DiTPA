@@ -413,3 +413,16 @@ Hardware evaluation writes results to:
 (1) If the latest_*.txt files do not exist, it usually means software evaluation has not finished successfully. You can also run the Python script directly and manually pass `--baseline_sw_res_path` and `--ditpa_sw_res_path` if needed. 
 
 (2) Due to the random initialization of the LIBERO simulation environment and the diffusion workflow adopted by the DiT action planner, the task execution exhibits randomness, resulting in slight fluctuations in each evaluation result. 
+
+## Citation:
+If you find this repository or the paper helpful, we would appreciate it if you could cite our work:
+```
+@inproceedings{DiTPA2026,
+  author    = {Xin Zhao and Longke Yan and Jiancong Li and Yongkun Wu and Fengbin Tu},
+  title     = {DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence},
+  booktitle = {Proceedings of the 53rd International Symposium on Computer Architecture (ISCA'26)},
+  year      = {2026},
+  address   = {Raleigh, USA},
+  month     = {June},  
+}
+```
