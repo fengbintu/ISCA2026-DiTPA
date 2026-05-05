@@ -420,7 +420,7 @@ If you find this repository or the paper helpful, we would appreciate it if you 
 @inproceedings{DiTPA2026,
   author    = {Xin Zhao and Longke Yan and Jiancong Li and Yongkun Wu and Fengbin Tu},
   title     = {DiTPA: A DiT-based Action Planner Accelerator Exploiting Action-Denoising-Multimodality Redundancy for Embodied Artificial Intelligence},
-  booktitle = {Proceedings of the 53rd International Symposium on Computer Architecture (ISCA'26)},
+  booktitle = {53rd Annual International Symposium on Computer Architecture (ISCA)},
   year      = {2026},
   address   = {Raleigh, USA},
   month     = {June},  
