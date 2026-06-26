@@ -56,7 +56,7 @@ Quick evaluation contains three steps: repository preparation, conda environment
 
 Clone the repository.
 ```bash
-git clone "https://github.com/j9h5f2m8k/DiTPA.git" "DiTPA"
+git clone "https://github.com/fengbintu/ISCA2026-DiTPA.git" "DiTPA"
 cd DiTPA
 ```
 
@@ -70,7 +70,7 @@ Then, run the command.
 It clones the repository (or skips cloning if `./DiTPA/.git` already exists), then enters the repo directory.
 
 ```bash
-REPO_URL="https://github.com/j9h5f2m8k/DiTPA.git"
+REPO_URL="https://github.com/fengbintu/ISCA2026-DiTPA.git"
 REPO_DIR="DiTPA"
 
 if [ -d ".git" ]; then
@@ -147,7 +147,7 @@ All operations below are implemented in [environment_setup.sh](environment_setup
 It clones the repository (or skips cloning if `./DiTPA/.git` already exists), then enters the repo directory.
 
 ```bash
-REPO_URL="https://github.com/j9h5f2m8k/DiTPA.git"
+REPO_URL="https://github.com/fengbintu/ISCA2026-DiTPA.git"
 REPO_DIR="DiTPA"
 
 if [ -d ".git" ]; then
