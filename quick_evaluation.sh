@@ -5,7 +5,7 @@ echo "========================================"
 # ==================== 1. prepare the repository ====================
 echo "===== 1. Preparing DiTPA repository... ====="
 
-REPO_URL="https://github.com/j9h5f2m8k/DiTPA.git"
+REPO_URL="https://github.com/fengbintu/ISCA2026-DiTPA.git"
 REPO_DIR="DiTPA"
 
 if [ -d ".git" ]; then
